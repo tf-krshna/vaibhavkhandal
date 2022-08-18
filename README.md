@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @vaibhavkhandal
+- 👋 Hi, I’m Vaibhav Sharma
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me +917737265544
 
 <!---
